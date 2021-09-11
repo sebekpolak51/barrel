@@ -1,0 +1,7 @@
+"barrel"
+{
+	"base"		"base"
+	"title"		"Barrel Gamemode"
+	"maps"		"br_^"
+	"menusystem"	"1"
+}
